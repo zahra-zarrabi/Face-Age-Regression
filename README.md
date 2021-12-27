@@ -2,11 +2,11 @@
 We proposed a CNN network for Mnist Persian regression. We used framework pytorch==1.8.2.  
 
 <center>
-<table>
-<tr>
-  <img src="https://user-images.githubusercontent.com/80582110/147503753-4e3cfc86-a4ae-4e76-bb58-514076965d71.png">
-</tr>
-</table>
+  <table>
+  <tr>
+    <img src="https://user-images.githubusercontent.com/80582110/147503753-4e3cfc86-a4ae-4e76-bb58-514076965d71.png">
+  </tr>
+  </table>
 </center>
 
 ## Train
@@ -19,4 +19,5 @@ Please download the weights from [here](https://drive.google.com/file/d/1-aiOwRs
 
 ## Inference
 To test the trained model, please run the following file:
+
 `python inference.py --img_path data/2.jpeg --model_path model_mnist.pth --device GPU`
