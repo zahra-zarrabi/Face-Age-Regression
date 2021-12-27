@@ -1,13 +1,15 @@
 # Face Age Regression
 We proposed a CNN network for Mnist Persian regression. We used framework pytorch==1.8.2.  
 
-<center>
+
   <table>
     <tr>
-      <img src="https://user-images.githubusercontent.com/80582110/147503753-4e3cfc86-a4ae-4e76-bb58-514076965d71.png">
+      <center>     
+        <img src="https://user-images.githubusercontent.com/80582110/147503753-4e3cfc86-a4ae-4e76-bb58-514076965d71.png">
+      </center>
     </tr>
   </table>
-</center>
+
 
 ## Train
 To train the model, please run the file:
