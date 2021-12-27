@@ -5,11 +5,10 @@ We proposed a CNN network for Mnist Persian classification. We used framework py
 
 
 
-   ![Screenshot from 2021-12-27 23-34-12](https://user-images.githubusercontent.com/80582110/147503753-4e3cfc86-a4ae-4e76-bb58-514076965d71.png)
+![Screenshot from 2021-12-27 23-34-12](https://user-images.githubusercontent.com/80582110/147503753-4e3cfc86-a4ae-4e76-bb58-514076965d71.png)
 
 ## Train
 To train the model please run the file 
-
 `face_age.ipynb`
 
 ## Pretrained model
