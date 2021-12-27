@@ -22,4 +22,4 @@ Please download the weights from [here](https://drive.google.com/file/d/1-aiOwRs
 ## Inference
 To test the trained model, please run the following file:
 
-`python inference.py --img_path data/2.jpeg --model_path model_mnist.pth --device GPU`
+`python inference.py --img_path data/2.jpeg --model_path age_weight.pth --device GPU`
