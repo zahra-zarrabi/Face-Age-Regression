@@ -3,9 +3,9 @@ We proposed a CNN network for Mnist Persian regression. We used framework pytorc
 
 <center>
   <table>
-  <tr>
-    <img src="https://user-images.githubusercontent.com/80582110/147503753-4e3cfc86-a4ae-4e76-bb58-514076965d71.png">
-  </tr>
+    <tr>
+      <img src="https://user-images.githubusercontent.com/80582110/147503753-4e3cfc86-a4ae-4e76-bb58-514076965d71.png">
+    </tr>
   </table>
 </center>
 
